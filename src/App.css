@@ -1,0 +1,30 @@
+.products_block {
+	background-color: #ddd;
+	height: 100vh;
+}
+.products_block h1 {
+	text-align: center;
+}
+.products_block ul {
+	list-style: none;
+	padding: 0;
+	text-align: center;
+}
+.products_block li {
+	margin-bottom: 20px;
+}
+.products_block .delete {
+	margin-left: 10px;
+}
+.add_prod {
+	text-align: center;
+}
+.add_prod h4 {
+	text-transform: uppercase;
+	font-size: 22px;
+	margin: 0;
+	margin-bottom: 15px;
+}
+.add_prod input {
+	margin-right: 8px;
+}
